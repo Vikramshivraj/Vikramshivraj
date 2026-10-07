@@ -1,173 +1,266 @@
-<!-- PROFILE README — VIKRAM SINGH -->
-
 <div align="center">
 
-# ⚡ VIKRAM SINGH
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0b1f1a,100:00ff88&text=VIKRAM%20SINGH&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=DEVOPS%20%2F%20CLOUD%20ENGINEER&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
-### DevOps & Cloud Engineer · Full-Stack Developer · Builder
+<a href="https://github.com/Vikramshivraj">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=terraform+apply+%E2%86%92+infrastructure+online;docker+compose+up+%E2%86%92+services+running;git+push+%E2%86%92+pipeline+triggered;build+%E2%86%92+deploy+%E2%86%92+observe+%E2%86%92+repeat" />
+</a>
 
-**Building • Deploying • Automating**
+<br/>
 
-<p>
-  <a href="https://github.com/Vikramshivraj">GitHub</a> ·
-  <a href="https://github.com/Vikramshivraj?tab=repositories">Projects</a> ·
-  <a href="https://www.linkedin.com/in/vikram-singh">LinkedIn</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Vikramshivraj-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/Vikramshivraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00aaff)](https://www.linkedin.com/in/vikram-singh)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vikramshivraj&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)](https://github.com/Vikramshivraj)
 
 </div>
 
 ---
 
-## 🖥️ SYSTEM STATUS
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  VIKRAM@DEVOPS ~ $ whoami                                   │
-│                                                              │
-│  Role       : DevOps / Cloud Engineer                       │
-│  Building   : Cloud Infrastructure & Production Systems     │
-│  Cloud      : AWS                                            │
-│  IaC        : Terraform                                      │
-│  Runtime    : Docker • Kubernetes                            │
-│  Automation : GitHub Actions • CI/CD                        │
-│  Systems    : Linux • Networking                             │
-│  Status     : ████████████████████  ONLINE                   │
-└──────────────────────────────────────────────────────────────┘
-```
+### root@vikram:~$ whoami
 
----
+**Vikram Singh**  
+DevOps & Cloud Engineer in the making.
 
-## 🧭 WHAT I DO
+I like taking things from **“works on my machine”** to **“deployed, automated and observable.”**
 
-> I enjoy working where **software meets infrastructure** — taking applications from local development to automated, observable cloud deployments.
+~~~bash
+$ ./current_mission
 
-```text
-        BUILD
-          ↓
-     CONTAINERIZE
-          ↓
-       AUTOMATE
-          ↓
-       DEPLOY
-          ↓
-       OBSERVE
-          ↓
-       IMPROVE
-          ↺
-```
+[+] AWS infrastructure
+[+] Infrastructure as Code
+[+] Containerized services
+[+] CI/CD automation
+[+] Monitoring & reliability
 
----
+status: ONLINE
+~~~
 
-## 🛠️ TECH STACK
+</td>
+<td width="45%" valign="top">
 
-### ☁️ Cloud & DevOps
-<p><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,githubactions,nginx&perline=7" /></p>
+### SYSTEM / 01
 
-### 💻 Development
-<p><img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,react,nodejs,express,fastapi&perline=8" /></p>
+~~~text
+┌─────────────────────┐
+│  VIKRAM-NODE        │
+├─────────────────────┤
+│ CPU      ██████ 82% │
+│ CLOUD    ████████   │
+│ DOCKER   ████████   │
+│ IaC      ███████░   │
+│ CI/CD    ████████   │
+│ K8S      █████░░░   │
+│                     │
+│ ● ALL SYSTEMS GO    │
+└─────────────────────┘
+~~~
 
-### 🗄️ Databases & Infrastructure
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,git&perline=8" /></p>
+</td>
+</tr>
+</table>
 
----
+## 01 / THE STACK
 
-## 🚀 FEATURED PROJECTS
+<div align="center">
 
-### 🏗️ FinOps Infrastructure Platform
-**AWS · Terraform · Docker · CI/CD · Observability**
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,githubactions,nginx,prometheus,grafana&perline=9" />
 
-Infrastructure-focused platform built around cloud deployment, modular Terraform, networking, security, containers and monitoring.
+<br/><br/>
 
-### 🔐 KYC Verification Platform
-**FastAPI · PostgreSQL · RabbitMQ · MinIO · Tesseract · Docker Compose**
+<img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,react,nodejs,express,fastapi,postgres,mysql,mongodb,redis,rabbitmq,git&perline=14" />
 
-Document verification platform using asynchronous processing, object storage, OCR and containerized services.
-
-### ✈️ AI Travel & Expense Platform
-**React · Node.js · MySQL · Redis · LangChain · Gemini · Docker**
-
-AI-assisted travel planning and expense management with REST APIs, caching and AI-powered itinerary generation.
-
-### 🌐 Infrastructure Automation
-**Terraform · AWS VPC · ALB · Security Groups · EC2**
-
-Reusable infrastructure modules for networking, application traffic and secure service communication.
+</div>
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 02 / HOW I BUILD
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vikramshivraj&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikramshivraj&hide_border=true&theme=transparent" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikramshivraj&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" />
-</p>
+~~~text
+                    ┌──────────────┐
+                    │   DEVELOPER  │
+                    └──────┬───────┘
+                           │ git push
+                           ▼
+                 ┌───────────────────┐
+                 │   GITHUB ACTIONS  │
+                 │   TEST → BUILD    │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │      DOCKER       │
+                 │    CONTAINERIZE   │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │     TERRAFORM     │
+                 │   INFRASTRUCTURE  │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+        ┌──────────────────┴──────────────────┐
+        │                                     │
+        ▼                                     ▼
+   ┌─────────┐                         ┌─────────────┐
+   │   AWS   │                         │ OBSERVABILITY│
+   │ VPC/ALB │                         │ PROM/GRAFANA │
+   │ EC2/DB  │                         │ LOGS/METRICS │
+   └─────────┘                         └─────────────┘
+~~~
+
+</div>
 
 ---
 
-## 📈 CONTRIBUTION ACTIVITY
+## 03 / DEPLOYED PROJECTS
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikramshivraj&hide_border=true&theme=github-compact" width="96%" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟢 FINOPS PLATFORM
+
+**STATUS: DEPLOYED**
+
+AWS infrastructure platform focused on cloud deployment, networking, security and observability.
+
+~~~text
+AWS • Terraform • Docker
+EC2 • ALB • CI/CD
+Prometheus • Monitoring
+~~~
+
+**→ Infrastructure / DevOps**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 KYC PLATFORM
+
+**STATUS: RUNNING**
+
+Containerized document verification system with asynchronous processing.
+
+~~~text
+FastAPI • PostgreSQL
+RabbitMQ • MinIO
+Tesseract • Docker Compose
+~~~
+
+**→ Backend / Infrastructure**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 AI TRAVEL PLATFORM
+
+**STATUS: BUILDING**
+
+AI-powered travel and expense platform with intelligent itinerary generation.
+
+~~~text
+React • Node • MySQL
+Redis • LangChain • Gemini
+Docker • JWT
+~~~
+
+**→ Full Stack / AI**
+
+</td>
+<td width="50%" valign="top">
+
+### 🟠 INFRA AUTOMATION
+
+**STATUS: AUTOMATING**
+
+Reusable Terraform infrastructure for secure AWS application environments.
+
+~~~text
+Terraform • VPC • ALB
+Security Groups • EC2
+Modular IaC
+~~~
+
+**→ Cloud / IaC**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 04 / GITHUB // TELEMETRY
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Vikramshivraj&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=050505&title_color=00ff88&text_color=c9d1d9&icon_color=00ff88" height="175"/>
 
-## ⚡ CURRENTLY LEVELING UP
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikramshivraj&hide_border=true&background=050505&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=777777" height="175"/>
 
-```text
-AWS                ███████████████░░░  Cloud
-Terraform          ███████████████░░░  IaC
-Docker             ████████████████░░  Containers
-CI/CD              ███████████████░░░  Automation
-Linux              ███████████████░░░  Systems
-Kubernetes         ████████████░░░░░░  Orchestration
-Observability      ███████████░░░░░░░  Monitoring
-```
+</div>
 
 ---
 
-## 🎯 ENGINEERING GOAL
+## 05 / CONTRIBUTION MATRIX
 
-**Build systems that are reproducible, observable, secure and easy to operate.**
+<div align="center">
 
-```text
-Application
-    │
-    ▼
-Docker
-    │
-    ▼
-CI/CD ───────► GitHub Actions
-    │
-    ▼
-Terraform ───► AWS
-    │
-    ▼
-Monitoring ──► Metrics / Logs
-```
+<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg" width="100%" />
+
+</div>
+
+---
+
+## 06 / CURRENT BUILD
+
+~~~text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   NOW →  CLOUD + DEVOPS                                   │
+│                                                            │
+│   [██████████████████░░] AWS                              │
+│   [█████████████████░░░] Terraform                        │
+│   [██████████████████░░] Docker                           │
+│   [██████████████░░░░░░] Kubernetes                       │
+│   [████████████████░░░░] CI/CD                            │
+│   [██████████████░░░░░░] Observability                    │
+│                                                            │
+│   next: production-grade systems                           │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+~~~
+
+---
+
+## 07 / ENGINEERING PHILOSOPHY
+
+<div align="center">
+
+> **Automate what repeats.**  
+> **Observe what runs.**  
+> **Secure what matters.**  
+> **Document what breaks.**
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🤝 LET'S BUILD.
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:00ff88,50:0b1f1a,100:050505" width="100%"/>
 
-**Open to DevOps · Cloud · Software Engineering opportunities**
+### VIKRAM@CLOUD:~$ exit
 
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=Vikramshivraj&style=flat-square" />
+**Still building. Still deploying. Still learning.**
 
 </div>
