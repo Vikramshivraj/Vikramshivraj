@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/gh-pages/github-contribution-grid-snake-dark.svg">
-<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/gh-pages/github-contribution-grid-snake-dark.svg" width="72%" alt="Animated GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/gh-pages/github-contribution-grid-snake-dark.svg" width="94%" alt="Animated GitHub contribution snake" style="border:1px solid #30363d;border-radius:10px;padding:4px;box-sizing:border-box"/>
 </a>
 
 <br/><br/>
@@ -136,7 +136,7 @@ A personal DSA progress platform for tracking problems, topics and interview pre
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vikramshivraj&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&icon_color=00FF88" height="175"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikramshivraj&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&dates=777777" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikramshivraj&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=C9D1D9" height="175"/>
 
 <br/><br/>
 
