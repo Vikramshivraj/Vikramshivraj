@@ -4,8 +4,8 @@
 
 <br/>
 
-<a href="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/gh-pages/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/gh-pages/github-contribution-grid-snake.svg" width="94%" alt="Animated GitHub contribution snake"/>
+<a href="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/gh-pages/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/gh-pages/github-contribution-grid-snake-dark.svg" width="94%" alt="Animated GitHub contribution snake"/>
 </a>
 
 <br/><br/>
@@ -150,11 +150,13 @@ A personal DSA progress platform for tracking problems, topics and interview pre
 
 <div align="center">
 
-**Every green contribution square becomes food.**
+### YOUR CONTRIBUTIONS → THE BOARD → THE SNAKE
+
+**Every green square is a commit. The snake eats the path you built.**
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/gh-pages/github-contribution-grid-snake.svg" width="94%" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/gh-pages/github-contribution-grid-snake-dark.svg" width="94%" alt="GitHub contribution snake animation"/>
 
 </div>
 
