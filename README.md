@@ -1,160 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0b1f1a,100:00ff88&text=VIKRAM%20SINGH&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=DEVOPS%20%2F%20CLOUD%20ENGINEER&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050505,50:101820,100:00ff88&text=VIKRAM%20SINGH&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=DEVOPS%20%7C%20CLOUD%20%7C%20FULL%20STACK&descAlignY=60&descSize=17&animation=twinkling" width="100%"/>
 
-<a href="https://github.com/Vikramshivraj">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=terraform+apply+%E2%86%92+infrastructure+online;docker+compose+up+%E2%86%92+services+running;git+push+%E2%86%92+pipeline+triggered;build+%E2%86%92+deploy+%E2%86%92+observe+%E2%86%92+repeat" />
+<a href="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg" width="92%" alt="Contribution Snake"/>
 </a>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Vikramshivraj-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/Vikramshivraj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00aaff)](https://www.linkedin.com/in/vikram-singh)
-[![Profile Views](https://komarev.com/ghpvc/?username=Vikramshivraj&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)](https://github.com/Vikramshivraj)
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### root@vikram:~$ whoami
-
-**Vikram Singh**  
-DevOps & Cloud Engineer in the making.
-
-I like taking things from **“works on my machine”** to **“deployed, automated and observable.”**
-
-~~~bash
-$ ./current_mission
-
-[+] AWS infrastructure
-[+] Infrastructure as Code
-[+] Containerized services
-[+] CI/CD automation
-[+] Monitoring & reliability
-
-status: ONLINE
-~~~
-
-</td>
-<td width="45%" valign="top">
-
-### SYSTEM / 01
-
-~~~text
-┌─────────────────────┐
-│  VIKRAM-NODE        │
-├─────────────────────┤
-│ CPU      ██████ 82% │
-│ CLOUD    ████████   │
-│ DOCKER   ████████   │
-│ IaC      ███████░   │
-│ CI/CD    ████████   │
-│ K8S      █████░░░   │
-│                     │
-│ ● ALL SYSTEMS GO    │
-└─────────────────────┘
-~~~
-
-</td>
-</tr>
-</table>
-
-## 01 / THE STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,githubactions,nginx,prometheus,grafana&perline=9" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,react,nodejs,express,fastapi,postgres,mysql,mongodb,redis,rabbitmq,git&perline=14" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=700&color=00FF88&center=true&vCenter=true&width=720&lines=build+%E2%86%92+deploy+%E2%86%92+monitor+%E2%86%92+repeat;AWS+%2B+Terraform+%2B+Docker+%2B+CI%2FCD;turning+ideas+into+running+systems" />
+
+<br/><br/>
+
+<a href="https://github.com/Vikramshivraj">GitHub</a>
+&nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/vikram-singh">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="https://instagram.com/Vickyvibes07">Instagram</a>
+&nbsp;•&nbsp;
+<a href="https://pinterest.com/Vickyvibes">Pinterest</a>
 
 </div>
 
 ---
 
-## 02 / HOW I BUILD
+## 🛠️ TECH STACK
+
+### ☁️ Cloud & DevOps
 
 <div align="center">
 
-~~~text
-                    ┌──────────────┐
-                    │   DEVELOPER  │
-                    └──────┬───────┘
-                           │ git push
-                           ▼
-                 ┌───────────────────┐
-                 │   GITHUB ACTIONS  │
-                 │   TEST → BUILD    │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │      DOCKER       │
-                 │    CONTAINERIZE   │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │     TERRAFORM     │
-                 │   INFRASTRUCTURE  │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-        ┌──────────────────┴──────────────────┐
-        │                                     │
-        ▼                                     ▼
-   ┌─────────┐                         ┌─────────────┐
-   │   AWS   │                         │ OBSERVABILITY│
-   │ VPC/ALB │                         │ PROM/GRAFANA │
-   │ EC2/DB  │                         │ LOGS/METRICS │
-   └─────────┘                         └─────────────┘
-~~~
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+</div>
+
+### 💻 Development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+</div>
+
+### 🗄️ Databases & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
 ---
 
-## 03 / DEPLOYED PROJECTS
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 FINOPS PLATFORM
+### 🏗️ FinOps Infrastructure Platform
 
-**STATUS: DEPLOYED**
+**AWS · Terraform · Docker · CI/CD · Observability**
 
-AWS infrastructure platform focused on cloud deployment, networking, security and observability.
+Cloud infrastructure platform with modular IaC, networking, security groups, containers and monitoring.
 
-~~~text
-AWS • Terraform • Docker
-EC2 • ALB • CI/CD
-Prometheus • Monitoring
-~~~
-
-**→ Infrastructure / DevOps**
+<a href="https://github.com/Vikramshivraj/Hackathon">VIEW PROJECT →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔵 KYC PLATFORM
+### 🔐 KYC Verification Platform
 
-**STATUS: RUNNING**
+**FastAPI · PostgreSQL · RabbitMQ · MinIO · Tesseract**
 
-Containerized document verification system with asynchronous processing.
+Containerized verification system with OCR, asynchronous workers, object storage and database migrations.
 
-~~~text
-FastAPI • PostgreSQL
-RabbitMQ • MinIO
-Tesseract • Docker Compose
-~~~
-
-**→ Backend / Infrastructure**
+<a href="https://github.com/Vikramshivraj/kyc">VIEW PROJECT →</a>
 
 </td>
 </tr>
@@ -162,36 +103,24 @@ Tesseract • Docker Compose
 <tr>
 <td width="50%" valign="top">
 
-### 🟣 AI TRAVEL PLATFORM
+### ✈️ AI Travel & Expense Platform
 
-**STATUS: BUILDING**
+**React · Node · MySQL · Redis · LangChain · Gemini**
 
-AI-powered travel and expense platform with intelligent itinerary generation.
+AI-powered itinerary generation, expense management, REST APIs, caching and Docker deployment.
 
-~~~text
-React • Node • MySQL
-Redis • LangChain • Gemini
-Docker • JWT
-~~~
-
-**→ Full Stack / AI**
+<a href="https://github.com/Vikramshivraj/trip-plannerv2">VIEW PROJECT →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🟠 INFRA AUTOMATION
+### 🧠 DSA Tracker
 
-**STATUS: AUTOMATING**
+**MERN · MongoDB · Express · React · Node.js**
 
-Reusable Terraform infrastructure for secure AWS application environments.
+A personal DSA progress platform for tracking problems, topics and interview preparation.
 
-~~~text
-Terraform • VPC • ALB
-Security Groups • EC2
-Modular IaC
-~~~
-
-**→ Cloud / IaC**
+<a href="https://github.com/Vikramshivraj/dsa-tracker">VIEW PROJECT →</a>
 
 </td>
 </tr>
@@ -199,57 +128,21 @@ Modular IaC
 
 ---
 
-## 04 / GITHUB // TELEMETRY
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vikramshivraj&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=050505&title_color=00ff88&text_color=c9d1d9&icon_color=00ff88" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vikramshivraj&theme=github_dark" width="96%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikramshivraj&hide_border=true&background=050505&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=777777" height="175"/>
+<br/><br/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Vikramshivraj&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&icon_color=00FF88" height="175"/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikramshivraj&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&dates=777777" height="175"/>
 
-## 05 / CONTRIBUTION MATRIX
+<br/><br/>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
----
-
-## 06 / CURRENT BUILD
-
-~~~text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│   NOW →  CLOUD + DEVOPS                                   │
-│                                                            │
-│   [██████████████████░░] AWS                              │
-│   [█████████████████░░░] Terraform                        │
-│   [██████████████████░░] Docker                           │
-│   [██████████████░░░░░░] Kubernetes                       │
-│   [████████████████░░░░] CI/CD                            │
-│   [██████████████░░░░░░] Observability                    │
-│                                                            │
-│   next: production-grade systems                           │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-~~~
-
----
-
-## 07 / ENGINEERING PHILOSOPHY
-
-<div align="center">
-
-> **Automate what repeats.**  
-> **Observe what runs.**  
-> **Secure what matters.**  
-> **Document what breaks.**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikramshivraj&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="96%"/>
 
 </div>
 
@@ -257,10 +150,38 @@ Modular IaC
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:00ff88,50:0b1f1a,100:050505" width="100%"/>
+### 🐍 THE SNAKE IS ALWAYS HUNGRY.
 
-### VIKRAM@CLOUD:~$ exit
+*Every contribution becomes part of the journey.*
 
-**Still building. Still deploying. Still learning.**
+<br/>
+
+<a href="https://github.com/Vikramshivraj?tab=overview&from=2026-01-01&to=2026-12-31">
+<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg" width="88%" alt="GitHub Contribution Snake"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for stopping by.
+
+**Code something. Ship something. Learn something. Repeat.**
+
+<br/>
+
+<a href="https://github.com/Vikramshivraj">⭐ GitHub</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://instagram.com/Vickyvibes07">📸 Instagram</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://pinterest.com/Vickyvibes">📌 Pinterest</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vikram-singh">💼 LinkedIn</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Vikramshivraj&style=flat-square&color=00ff88&label=VISITORS"/>
 
 </div>
