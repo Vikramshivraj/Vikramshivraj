@@ -4,8 +4,8 @@
 
 <br/>
 
-<a href="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg" width="94%" alt="Animated GitHub contribution snake"/>
+<a href="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/gh-pages/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/gh-pages/github-contribution-grid-snake.svg" width="94%" alt="Animated GitHub contribution snake"/>
 </a>
 
 <br/><br/>
@@ -154,7 +154,7 @@ A personal DSA progress platform for tracking problems, topics and interview pre
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg" width="94%" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/gh-pages/github-contribution-grid-snake.svg" width="94%" alt="GitHub contribution snake animation"/>
 
 </div>
 
