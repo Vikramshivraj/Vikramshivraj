@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090B18,45:17153A,75:312E81,100:06B6D4&text=VIKRAM%20%E2%9C%A6%20SINGH&fontColor=F8FAFC&fontSize=46&fontAlignY=38&desc=DEVOPS%20%E2%80%A2%20CLOUD%20%E2%80%A2%20FULL%20STACK&descAlignY=60&descSize=17&font=Space%20Grotesk&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050505,50:101820,100:00ff88&text=VIKRAM%20%E2%9A%A1%20SINGH&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=DEVOPS%20%7C%20CLOUD%20%7C%20FULL%20STACK&descAlignY=60&descSize=17&font=Orbitron&animation=twinkling" width="100%"/>
 
 <br/>
 
@@ -10,23 +10,23 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=720&lines=build+%E2%86%92+deploy+%E2%86%92+monitor+%E2%86%92+repeat;AWS+%2B+Terraform+%2B+Docker+%2B+CI%2FCD;turning+ideas+into+running+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=700&color=00FF88&center=true&vCenter=true&width=720&lines=build+%E2%86%92+deploy+%E2%86%92+monitor+%E2%86%92+repeat;AWS+%2B+Terraform+%2B+Docker+%2B+CI%2FCD;turning+ideas+into+running+systems" />
 
 <br/><br/>
 
-<a href="https://github.com/Vikramshivraj">🐙 GitHub</a>
+<a href="https://github.com/Vikramshivraj">GitHub</a>
 &nbsp;•&nbsp;
-<a href="https://www.linkedin.com/in/vikram-singh">💼 LinkedIn</a>
+<a href="https://www.linkedin.com/in/vikram-singh">LinkedIn</a>
 &nbsp;•&nbsp;
-<a href="https://instagram.com/Vickyvibes07">📸 Instagram</a>
+<a href="https://instagram.com/Vickyvibes07">Instagram</a>
 &nbsp;•&nbsp;
-<a href="https://pinterest.com/Vickyvibes">📌 Pinterest</a>
+<a href="https://pinterest.com/Vickyvibes">Pinterest</a>
 
 </div>
 
 ---
 
-## ⚡ TECH STACK
+## 🛠️ TECH STACK
 
 ### ☁️ Cloud & DevOps
 
@@ -130,17 +130,17 @@ A personal DSA progress platform for tracking problems, topics and interview pre
 
 ---
 
-## 📈 GITHUB ANALYTICS
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vikramshivraj&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=22D3EE" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vikramshivraj&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&icon_color=00FF88" height="175"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikramshivraj&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=C9D1D9" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikramshivraj&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=C9D1D9" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikramshivraj&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikramshivraj&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9" height="150"/>
 
 </div>
 
@@ -149,9 +149,9 @@ A personal DSA progress platform for tracking problems, topics and interview pre
 
 <div align="center">
 
-### ✨ Hey, thanks for dropping by!
+### ✨ Thanks for stopping by.
 
-**Build boldly. Ship clean. Keep learning. ✦**
+**Code something. Ship something. Learn something. Repeat.**
 
 <br/>
 
@@ -165,6 +165,6 @@ A personal DSA progress platform for tracking problems, topics and interview pre
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vikramshivraj&style=flat-square&color=A78BFA&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=Vikramshivraj&style=flat-square&color=00ff88&label=VISITORS"/>
 
 </div>
