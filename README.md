@@ -2,8 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050505,50:101820,100:00ff88&text=VIKRAM%20SINGH&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=DEVOPS%20%7C%20CLOUD%20%7C%20FULL%20STACK&descAlignY=60&descSize=17&animation=twinkling" width="100%"/>
 
+<br/>
+
 <a href="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg" width="92%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg" width="94%" alt="Animated GitHub contribution snake"/>
 </a>
 
 <br/><br/>
@@ -132,33 +134,27 @@ A personal DSA progress platform for tracking problems, topics and interview pre
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vikramshivraj&theme=github_dark" width="96%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vikramshivraj&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&icon_color=00FF88" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vikramshivraj&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&icon_color=00FF88" height="175"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikramshivraj&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&dates=777777" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikramshivraj&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="96%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikramshivraj&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9" height="150"/>
 
 </div>
 
 ---
 
+## 🐍 CONTRIBUTION SNAKE
+
 <div align="center">
 
-### 🐍 THE SNAKE IS ALWAYS HUNGRY.
-
-*Every contribution becomes part of the journey.*
+**Every green contribution square becomes food.**
 
 <br/>
 
-<a href="https://github.com/Vikramshivraj?tab=overview&from=2026-01-01&to=2026-12-31">
-<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg" width="88%" alt="GitHub Contribution Snake"/>
-</a>
+<img src="https://raw.githubusercontent.com/Vikramshivraj/Vikramshivraj/output/github-contribution-grid-snake.svg" width="94%" alt="GitHub contribution snake animation"/>
 
 </div>
 
