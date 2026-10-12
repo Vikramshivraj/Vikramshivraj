@@ -159,7 +159,7 @@ A personal DSA progress platform for tracking problems, topics and interview pre
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://instagram.com/Vickyvibes07">📸 Instagram</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://pinterest.com/Vickyvibes">📌 Pinterest</a>
+<a href="https://pinterest.com/Vickyvibes07">📌 Pinterest</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vikram-singh">💼 LinkedIn</a>
 
